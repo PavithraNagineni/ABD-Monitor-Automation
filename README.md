@@ -34,7 +34,9 @@ python system_monitor.py
 - psutil (system stats)
 
 ---
-
+## Output
+<img width="940" height="751" alt="Screenshot 2026-03-13 113341" src="https://github.com/user-attachments/assets/03a42736-dcd7-4c71-bc4c-e7f0bc3e9036" />
+---
 
 ## 👤 Author
 [Pavithra Nagineni] | [https://github.com/PavithraNagineni]
